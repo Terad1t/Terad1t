@@ -19,10 +19,10 @@ Olá! Me chamo Arthur (Terad1t) Alves, tenho 20 anos e sou de Brasília-DF. Conc
 <br />
 
  <summary><h3>👨‍💻 Minha jornada...</h3></summary>
-   Eu comecei com HTML no ensino médio, me apaixonei pela criação e desenvolvimento WEB, aprendi a usar CSS e JavaScript para estilização de sites. Na faculade me apaixonei pelo desenvolvimento de software usando Python e Java, foquei em aprender Lógica de programação, estrutura de dados e algoritmos e algoritmos de busca em Java. Entrei para a empresa AUDICARE onde fui alocado em um setor de recebimento de documentos, aprendi a mexer com Python para desenvolver automações e a manipular e cr
+   Eu comecei com HTML no ensino médio, me apaixonei pela criação e desenvolvimento WEB, aprendi a usar CSS e JavaScript para estilização de sites. Na faculade me apaixonei pelo desenvolvimento de software usando Python e Java, foquei em aprender Lógica de programação, estrutura de dados e algoritmos e algoritmos de busca em Java. Entrei para a empresa AUDICARE onde fui alocado em um setor de recebimento de documentos, aprendi a mexer com Python para desenvolver automações e a manipular e criar querys em planilhas e em XML. Hoje procuro um lugar para desenvolver minhas habilidades e evoluir no mercado de trabalho.
 <br />
 <br />
-iar querys em planilhas e em XML. Hoje procuro um lugar para desenvolver minhas habilidades e evoluir no mercado de trabalho.
+
 
 <img
   align="left"
