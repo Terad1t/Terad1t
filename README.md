@@ -5,6 +5,11 @@
 Olá! Me chamo Arthur (Terad1t) Alves, tenho 20 anos e sou de Brasília-DF. Concluí o ensino médio no CEMEIT (Taguatinga Norte) e atualmente curso Análise e Desenvolvimento de Sistemas (ADS) na Estácio. Amo tecnologia e já auxiliei servidores do TJDFT a automatizar serviços manuais do sistemas SEI. Hoje atuo com desenvolvimento de projetos pessoais.
 
 ### 🧰 Linguagens e ferramentas
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,docker,github,html,java,md,spring,postgres,mysql, git" />
+  </a>
+</p>
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
