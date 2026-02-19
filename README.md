@@ -23,10 +23,6 @@ Olá! Me chamo Arthur (Terad1t) Alves, tenho 20 anos e sou de Brasília-DF. Conc
 <br />
 
 
-<img
-  align="left"
-  height = "200"
- src = "https://github-readme-stats111-alpha.vercel.app/api?username=Terad1t&show_icons=true&theme=dark"
-/>
-<br>
+
+![Terad1t GitHub stats](https://github-readme-stats111-alpha.vercel.app/api?username=Terad1t&show_icons=true&theme=dark)
 
