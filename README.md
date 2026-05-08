@@ -12,7 +12,7 @@ Sinta-se avontade para ver meus projetos!
 <br>
 <br>
 # Infraestrutura:
-[![My Skills](https://skillicons.dev/icons?i=gcp,docker&perline=3)](https://skillicons.dev)
+<img https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light/>
 <br>
 
 # Linguagens e frameworks:
