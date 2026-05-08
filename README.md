@@ -15,6 +15,8 @@ Olá! Me chamo Arthur (Terad1t) Alves, tenho 20 anos e sou de Brasília-DF. Faç
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
+<br>
+
 
 ### Infraestrutura...
 [![My Skills](https://skillicons.dev/icons?i=gcp,oci&perline=3)](https://skillicons.dev)
