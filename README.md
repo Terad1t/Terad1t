@@ -9,10 +9,10 @@ Sinta-se avontade para ver meus projetos!
 <br>
 <br>
 
-# Linguagens:
+## Linguagens:
 <br> 
 <img src = "https://skillicons.dev/icons?i=java,python,nodejs&theme=light" />
 <br>
 
-# Infraestrutura e outras ferramentas:
+## Infraestrutura e outras ferramentas:
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker&perline=3)](https://skillicons.dev)
