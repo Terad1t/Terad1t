@@ -12,7 +12,7 @@ Sinta-se avontade para ver meus projetos!
 <br>
 <br>
 # Infraestrutura:
-<img https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light/>
+<img src = "https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light" />
 <br>
 
 # Linguagens e frameworks:
