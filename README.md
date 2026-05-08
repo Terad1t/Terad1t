@@ -16,4 +16,4 @@ Sinta-se avontade para ver meus projetos!
 <br>
 
 # Linguagens e frameworks:
-[![My Skills](https://skillicons.dev/icons?i=js,python,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker&perline=3)](https://skillicons.dev)
