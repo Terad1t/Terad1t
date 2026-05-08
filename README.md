@@ -11,7 +11,9 @@ Sinta-se avontade para ver meus projetos!
 ### Ferramentas: 
 <br>
 <br>
-# Infraestrutura:
+
+##  Infraestrutura:
+<br> 
 <img src = "https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light" />
 <br>
 
