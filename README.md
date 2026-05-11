@@ -84,5 +84,5 @@ Prediction API
 # GitHub Stats
 <p> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/> </p>
 🌐 Contact
-<p> <a href="https://github.com/SEU_USUARIO"> <img src="https://skillicons.dev/icons?i=github&theme=dark" /> </a> <a href="https://www.linkedin.com/"> <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /> </a> </p>
+<p> <a href="https://github.com/Terad1t"> <img src="https://skillicons.dev/icons?i=github&theme=dark" /> </a> <a href="https://www.linkedin.com/in/terad1t/"> <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /> </a> </p>
 <p align="center"> <i>"Building scalable systems, intelligent pipelines and real-time applications."</i> </p>
