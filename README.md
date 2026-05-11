@@ -5,7 +5,7 @@
 
 `Atualmente estudando e desenvolvendo projetos envolvendo pipelines de dados, processamento distribuído, APIs em tempo real e arquitetura cloud-native.`
 
-## Tech Stack
+# Tech Stack
 ## Languages
 <p> <img src="https://skillicons.dev/icons?i=java,python,javascript,nodejs&theme=dark" /> </p>
 ### Backend & Data Engineering
