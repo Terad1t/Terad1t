@@ -43,7 +43,9 @@ Distributed Data Processing
 Cloud Architecture
 Real-time Systems
 MLOps & DataOps
-## Featured Projects
+
+# Featured Projects
+
 ## RPG System
 
 ## Sistema de RPG em tempo real com arquitetura Master/Player usando:
