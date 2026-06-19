@@ -6,8 +6,8 @@
 `Currently studying and developing projects involving data pipelines, distributed processing, real-time APIs, and cloud-native architecture to my PIBIC.`
 
 # Tech Stack
-## Languages
 
+## Languages
 <p> <img src="https://skillicons.dev/icons?i=java,python,javascript,nodejs&theme=dark" /> </p>
 
 ### Backend & Data Engineering
