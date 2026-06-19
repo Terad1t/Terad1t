@@ -7,31 +7,25 @@
 
 # Tech Stack
 
-## Languages
+### Languages
+Java • NodeJS (JavaScript) • Python
 <p> <img src="https://skillicons.dev/icons?i=java,python,javascript,nodejs&theme=dark" /> </p>
 
-### Backend & Data Engineering
-<p> <img src="https://skillicons.dev/icons?i=fastapi,spring,postgres,mysql,docker,kafka&theme=dark" /> </p>
-APIs REST & WebSocket
-ETL / Data Pipelines
-Streaming com Kafka
-SQL & Modelagem de Dados
-Autenticação JWT
-Arquitetura distribuída
+### Tools (Backend/ Data Science)
+APIs REST, Polling and WebSocket • ETL/ELT • Apache Airflow, Apache Kafka, Apache Spark and Apache Hadoop • SQL (MySQL, PostgreSQL, SQLite) • Databricks • JWT Authentication • Git • MVC • Medallion
+<p> <img src="https://skillicons.dev/icons?i=fastapi,spring,postgres,mysql,docker,kafka,django,git&theme=dark" /> </p>
 
 ### Cloud & Infrastructure
+Google Cloud Platform (BigQuery, GCS, CKM, VertexAI) • Amazon Web Services (EC2, Lambda, DynamoDB, S3) • Docker • Databricks
 <p> <img src="https://skillicons.dev/icons?i=aws,gcp,docker&theme=dark" /> </p>
-Google Cloud Platform (BigQuery, GCS, CKM, VertexAI), Amazon Web Services (EC2, Lambda, DynamoDB, S3), Docker & Containers, Databricks & PySpark and Airflow Orchestration
+
 
 ### Machine Learning & AI
+Scikit-learn • TensorFlow, PyTorch • Classification Metrics • NLP & Sentiment Analysis • Model Training Pipelines • LLM APIs
 <p> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" /> </p>
-Scikit-learn, TensorFlow, PyTorch, Classification Metrics, NLP & Sentiment Analysis and Model Training Pipelines
+
 
 ### Currently Learning
-Java & Spring Boot
-Distributed Data Processing
-Cloud Architecture
-Real-time Systems
-MLOps & DataOps
+Distributed Data Processing • Cloud Architecture • Real-time Systems • MLOps & DataOps • 
 
 <p align="center"> <i>"Building scalable systems, intelligent pipelines and real-time applications."</i> </p>
