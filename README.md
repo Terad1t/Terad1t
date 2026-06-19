@@ -1,9 +1,9 @@
 # Arthur “Terad1t” Alves
-`Data Engineer • Machine Learning • Backend Development • Cloud Computing`
+`Data Science • Backend Development • Cloud Computing`
 
-`Estudante de Análise e Desenvolvimento de Sistemas focado em Engenharia de Dados, Machine Learning e desenvolvimento backend.`
+`Computer Science student specializing in Data Science and Backend Development`
 
-`Atualmente estudando e desenvolvendo projetos envolvendo pipelines de dados, processamento distribuído, APIs em tempo real e arquitetura cloud-native.`
+`Currently studying and developing projects involving data pipelines, distributed processing, real-time APIs, and cloud-native architecture to my PIBIC.`
 
 # Tech Stack
 ## Languages
@@ -21,24 +21,14 @@ Arquitetura distribuída
 
 ### Cloud & Infrastructure
 <p> <img src="https://skillicons.dev/icons?i=aws,gcp,docker&theme=dark" /> </p>
-Google Cloud Platform (GCP)
-Amazon Web Services (AWS)
-Docker & Containers
-BigQuery & Cloud Storage
-Databricks & PySpark
-Airflow Orchestration
+Google Cloud Platform (BigQuery, GCS, CKM, VertexAI), Amazon Web Services (EC2, Lambda, DynamoDB, S3), Docker & Containers, Databricks & PySpark and Airflow Orchestration
 
 ### Machine Learning & AI
 <p> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" /> </p>
-Scikit-learn
-TensorFlow
-PyTorch
-Classification Metrics
-NLP & Sentiment Analysis
-Model Training Pipelines
+Scikit-learn, TensorFlow, PyTorch, Classification Metrics, NLP & Sentiment Analysis and Model Training Pipelines
+
 ### Currently Learning
-Advanced Java & Spring Boot
-Angular
+Java & Spring Boot
 Distributed Data Processing
 Cloud Architecture
 Real-time Systems
